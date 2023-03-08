@@ -23,7 +23,5 @@ public class Main {
             System.err.println("ArrayIndexOutOfBoundsException caught");
             e.printStackTrace();
         }
-
-
     }
 }
